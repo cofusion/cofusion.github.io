@@ -1,2 +1,2 @@
 # cofusion.github.io
-Homepage
+CoFusion Homepage on GitHub
